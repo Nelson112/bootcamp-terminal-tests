@@ -1,0 +1,17 @@
+{
+  "name": "bootcamp-backend-test",
+  "version": "1.0.0",
+  "description": "Terminal tests",
+  "main": "countRegNumber.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Nelson",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.3.0"
+  }
+}
